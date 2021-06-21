@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kli-jetty
+- 👋 Hi, I’m Kewin
 - 👀 I’m interested in programming
 - 🌱 I’m currently working to become a better engineer and mentor
 - 💞️ I’m looking to collaborate on how can we work on this project together
